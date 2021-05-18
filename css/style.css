@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+}
+.header{
+    background-color: black;height: 300px;text-align: center;
+}
+.header h1{
+    color: whitesmoke;
+}
+.nav{
+    background-color: tomato;height: 250px;text-align: center;
+}
+.section_article{
+    height: 200px;width: 50%;float: left;
+}
+.section{
+    background-color: violet;height: 50%;text-align: center;
+}
+.article{
+    background-color: chocolate;height: 50%;text-align: center;
+}
+.aside{
+    background-color: brown;width: 50%;text-align: center;float: right;height: 200px;
+}
+.middle{
+    overflow: hidden;
+}
+.footer{
+    background-color: chartreuse;height: 150px;text-align: center;
+}
